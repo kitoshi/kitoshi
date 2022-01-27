@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert K. Charlton</h1>
-<h3 align="center">A web developer obsessed with javascript</h3>
+<h3 align="center">a web developer obsessed with javascript</h3>
 
 - 🔭 I’m currently working on [an art blog!](https://github.com/kitoshi/penny-site)
 
