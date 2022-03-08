@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Robert K. Charlton</h1>
 <h3 align="center">a web developer obsessed with javascript</h3>
 
-- 🔭 I’m currently working on [an art blog!](https://github.com/kitoshi/penny-site)
+- 🔭 I’m currently working on [a business site!](https://github.com/kitoshi/gti-next)
 
 - 🌱 I’m currently learning **React, NodeJS, NextJS**
 
-- 👯 I’m looking to collaborate on **anything interesting**
+- 👯 I’m looking to collaborate on **anything JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kitoshi](https://github.com/kitoshi)
 
